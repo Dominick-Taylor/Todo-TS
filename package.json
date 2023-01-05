@@ -1,0 +1,9 @@
+{
+  "name": "v-tris-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "app": "cd server && npm run start:app",
+    "update": "cd server && npm run start:update"
+  }
+}
